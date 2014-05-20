@@ -1,0 +1,9 @@
+C:\Users\gabriel\Desktop\4IM_1Annee\cercle_projet\formationCP\formationCP\bin\Debug\formationCP.exe.config
+C:\Users\gabriel\Desktop\4IM_1Annee\cercle_projet\formationCP\formationCP\bin\Debug\formationCP.exe
+C:\Users\gabriel\Desktop\4IM_1Annee\cercle_projet\formationCP\formationCP\bin\Debug\formationCP.pdb
+C:\Users\gabriel\Desktop\4IM_1Annee\cercle_projet\formationCP\formationCP\obj\Debug\formationCP.Properties.Resources.resources
+C:\Users\gabriel\Desktop\4IM_1Annee\cercle_projet\formationCP\formationCP\obj\Debug\formationCP.csproj.GenerateResource.Cache
+C:\Users\gabriel\Desktop\4IM_1Annee\cercle_projet\formationCP\formationCP\obj\Debug\formationCP.exe
+C:\Users\gabriel\Desktop\4IM_1Annee\cercle_projet\formationCP\formationCP\obj\Debug\formationCP.pdb
+C:\Users\gabriel\Desktop\4IM_1Annee\cercle_projet\formationCP\formationCP\obj\Debug\formationCP.Form1.resources
+C:\Users\gabriel\Desktop\4IM_1Annee\cercle_projet\formationCP\formationCP\obj\Debug\formationCP.csprojResolveAssemblyReference.cache
