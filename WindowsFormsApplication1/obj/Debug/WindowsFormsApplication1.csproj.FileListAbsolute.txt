@@ -1,1 +1,2 @@
 C:\Users\jdelagorce\Documents\Visual Studio 2013\Projects\Cercle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\CercleProjetG4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
