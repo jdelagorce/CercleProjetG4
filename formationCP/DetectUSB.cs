@@ -9,6 +9,10 @@ namespace formationCP
 {
     class DetectUSB : Form1
     {
+        public DetectUSB()
+        {
+               
+        }
             Form1 form_princ = new Form1();
         
         public void DetectionUSB()
