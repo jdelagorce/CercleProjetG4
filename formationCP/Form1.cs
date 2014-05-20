@@ -10,6 +10,8 @@ using System.Windows.Forms;
 
 //include supplémentaire
 using System.Runtime.InteropServices;
+using System.Management;
+using System.IO;
 
 
 namespace formationCP
@@ -18,7 +20,9 @@ namespace formationCP
     {
         public Form1()
         {
-            InitializeComponent();            
+            InitializeComponent();
+            DetectUSB detectUSB = new DetectUSB();
+            detectUSB.DetectionUSB();
         }
 
         private string Parseur_fichier(string chemin)

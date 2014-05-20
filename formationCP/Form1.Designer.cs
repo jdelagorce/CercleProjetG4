@@ -90,7 +90,7 @@
         #endregion
 
         private System.Windows.Forms.Button Parcourir;
-        private System.Windows.Forms.TextBox champ_fichier;
+        public System.Windows.Forms.TextBox champ_fichier;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private System.Windows.Forms.ListView listFiles;
         private System.Windows.Forms.ProgressBar progressBar1;

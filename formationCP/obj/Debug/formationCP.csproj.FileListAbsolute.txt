@@ -7,3 +7,11 @@ C:\Users\gabriel\Desktop\4IM_1Annee\cercle_projet\formationCP\formationCP\obj\De
 C:\Users\gabriel\Desktop\4IM_1Annee\cercle_projet\formationCP\formationCP\obj\Debug\formationCP.pdb
 C:\Users\gabriel\Desktop\4IM_1Annee\cercle_projet\formationCP\formationCP\obj\Debug\formationCP.Form1.resources
 C:\Users\gabriel\Desktop\4IM_1Annee\cercle_projet\formationCP\formationCP\obj\Debug\formationCP.csprojResolveAssemblyReference.cache
+C:\Users\gabriel\Documents\Visual Studio 2013\Projects\CercleProjetG4\formationCP\bin\Debug\formationCP.exe.config
+C:\Users\gabriel\Documents\Visual Studio 2013\Projects\CercleProjetG4\formationCP\bin\Debug\formationCP.exe
+C:\Users\gabriel\Documents\Visual Studio 2013\Projects\CercleProjetG4\formationCP\bin\Debug\formationCP.pdb
+C:\Users\gabriel\Documents\Visual Studio 2013\Projects\CercleProjetG4\formationCP\obj\Debug\formationCP.Form1.resources
+C:\Users\gabriel\Documents\Visual Studio 2013\Projects\CercleProjetG4\formationCP\obj\Debug\formationCP.Properties.Resources.resources
+C:\Users\gabriel\Documents\Visual Studio 2013\Projects\CercleProjetG4\formationCP\obj\Debug\formationCP.csproj.GenerateResource.Cache
+C:\Users\gabriel\Documents\Visual Studio 2013\Projects\CercleProjetG4\formationCP\obj\Debug\formationCP.exe
+C:\Users\gabriel\Documents\Visual Studio 2013\Projects\CercleProjetG4\formationCP\obj\Debug\formationCP.pdb
