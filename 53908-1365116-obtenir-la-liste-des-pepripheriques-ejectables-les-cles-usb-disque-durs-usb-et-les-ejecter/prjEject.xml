@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>prjEject</name>
+    </assembly>
+    <members>
+        <member name="M:prjEject.Device.EnumRelations">
+            <summary>
+            Enumère les devices qui ont une relations 'Removal' (enfants virtuels)
+            </summary>
+        </member>
+        <member name="M:prjEject.Device.EnumChildDevices(System.Int32)">
+            <summary>
+            Enumère les devices enfants
+            </summary>
+            <param name="DevInst"></param>
+        </member>
+        <member name="M:prjEject.DevicesList.GetClassImageList(System.ComponentModel.IContainer)">
+            <summary>
+            rempli un imagelist avec les icones des classes de périphériques
+            </summary>
+            <param name="container">structure contenant un descripteur d'un imagelist contenant les icones de classes de périphérique</param>
+            <returns>ImageList à remplir (BackGround = 0x80000000)</returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:prjEject.DevicesList.ReadClassImageList">
+            <summary>
+            renvoie l'imagelist contenant les icones de classes de périphériques
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:prjEject.DevicesList.DestroyClassImageList">
+            <summary>
+            détruit un imagelist d'icones de classes de périphériques alloué avec GetImageList
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:prjEject.DevicesList.GetClassImageListIndex(System.Guid)">
+            <summary>
+            renvoie l'index d'une classe spécifiée dans l'imagelist contenant les icones des classes de périphériques
+            </summary>
+            <param name="ClassGuid">GUID de la classe pour laquelle on doit trouver l'index</param>
+            <returns>structure contenant un descripteur d'un imagelist contenant les icones de classes de périphérique</returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:prjEject.DevicesList.EnumDevices">
+            <summary>
+            énumère la liste de tous les devices présents sur le système
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:prjEject.DevicesList.GetDeviceId(System.Int32)">
+            <summary>
+            récupère de DeviceId à partir d'un handle de device
+            </summary>
+            <param name="devInst"></param>
+            <returns></returns>
+        </member>
+        <member name="M:prjEject.DevicesList.GetDeviceIDList(System.String,prjEject.DevicesList.CM_GETIDLIST_FILTERS)">
+            <summary>
+            fonction permettant de renvoyer la liste des IDs de device qui ont une relation donnée (Eject, removal...) avec le device donné
+            </summary>
+            <returns>renvoie un tableau de chaines de caractere contenant chacune un ID</returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:prjEject.DevicesList.GetDeviceIDList">
+            <summary>
+            fonction permettant de renvoyer la liste des IDs de device
+            </summary>
+            <returns>renvoie un tableau de chaines de caractere contenant chacune un ID</returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:prjEject.DevicesList.GetInterfaceData(prjEject.DevicesList.InterfaceGUID)">
+            <summary>
+            renvoie les interfaces du pilote spécifé
+            </summary>
+            <param name="InterGUID">GUID de classe de l'interface du device à enumémrer</param>
+            <returns>renvoie une structure contenant des infos sur l'interface du device</returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:prjEject.DevicesList.GetInterfaceGUID(prjEject.DevicesList.InterfaceGUID)">
+            <summary>
+            renvoie le GUID de la classe d'interface désirée
+            </summary>
+            <param name="Interf">classe de l'interface</param>
+            <returns>renvoie le GUID correspondant</returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:prjEject.InstallableDriverList.ReadInstallableDriverList">
+            <summary>
+            liste les pilotes installables
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:prjEject.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,16 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
-namespace WindowsFormsApplication1
+namespace GetFileSystemEntries
 {
-    class Program
+    class Class1
     {
         static void Main(string[] args)
         {
-            Program snippets = new Program();
+            Class1 snippets = new Class1();
 
             string path = System.IO.Directory.GetCurrentDirectory();
             string filter = "*.exe";
